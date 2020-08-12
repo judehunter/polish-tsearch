@@ -6,13 +6,13 @@ polish.affix
 polish.dict
 polish.stop
 ```
-All in the correct `UTF-8` encoding (instead of `iso-8859-2`)
+All in the correct `UTF-8` encoding (instead of `iso-8859-2`) and names
 
 #### Licensing
 
 This repository uses `The Unlicense` license (public domain).
 
-`.affix` and `.dict` files come from [sjp.pl](https://sjp.pl/slownik/ort/) (`sjp-ispell-pl-%date%-src.tar.bz2`), originally in the `iso-8859-2` encoding.
+`.affix` and `.dict` files come from [sjp.pl](https://sjp.pl/slownik/ort/) (`sjp-ispell-pl-%date%-src.tar.bz2`), originally in the `iso-8859-2` encoding and named `.aff`, `.all`.
 
 `.stop` file comes from https://raw.githubusercontent.com/dominem/stopwords/master/polish.stopwords.txt
 
