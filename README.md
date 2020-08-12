@@ -6,7 +6,7 @@ polish.affix
 polish.dict
 polish.stop
 ```
-All in the correct `UTF-8` encoding (instead of `iso-8859-2`) and names
+All with the correct `UTF-8` encoding (instead of `iso-8859-2`) and names
 
 #### Licensing
 
